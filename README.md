@@ -4,10 +4,8 @@ NetCode is an application that allows you to code synchronously with friends or 
 ## NetCode
 The windows form application (Still in the beginning stages)
 
-HTML
 ![Image not found](https://github.com/shadowkingbubba/NetCode-Windows/blob/master/NetCode1.PNG?raw=true)
 
-C#
 ![Image not found](https://github.com/shadowkingbubba/NetCode-Windows/blob/master/NetCode2.PNG?raw=true)
 
 ## NetCode Networking
