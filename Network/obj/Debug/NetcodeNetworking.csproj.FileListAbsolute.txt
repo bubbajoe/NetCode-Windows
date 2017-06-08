@@ -1,0 +1,8 @@
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\bin\Debug\Network.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\bin\Debug\Network.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\obj\Debug\NetcodeNetworking.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\obj\Debug\Network.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\obj\Debug\Network.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\bin\Debug\FastColoredTextBox.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\bin\Debug\FastColoredTextBox.xml
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\Network\bin\Debug\MySql.Data.dll

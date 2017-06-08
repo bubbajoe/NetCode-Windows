@@ -1,0 +1,9 @@
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\TestClient.exe
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\Network.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\Network.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\obj\Debug\TestClient.exe
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestClient\bin\Debug\MySql.Data.dll

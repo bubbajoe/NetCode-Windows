@@ -1,0 +1,11 @@
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\TestServer.exe
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\TestServer.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\Network.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\Network.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\obj\Debug\TestServer.exe
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\obj\Debug\TestServer.pdb
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\MySql.Data.dll
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\NetCoding.exe
+C:\Users\Joe\Source\Workspaces\Net Code\Net Code\TestServer\bin\Debug\NetCoding.pdb
